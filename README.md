@@ -8,5 +8,5 @@ Please see [samples](https://github.com/Canhui/PPT_Animation_Samples). The sampl
 
 
 ## Reference
-[1. PPT Animation Videos] https://www.bilibili.com/video/BV1ax411Z7RU/?vd_source=e422e2614baa36cb808376bf194b6359&spm_id_from=333.788.videopod.episodes
+[1. PPT Animation Videos] https://www.bilibili.com/video/BV1ax411Z7RU/?vd_source=e422e2614baa36cb808376bf194b6359&spm_id_from=333.788.videopod.episodes <br>
 [2. PPT Animation Videos] https://www.bilibili.com/video/BV1ax411Z7RU/?vd_source=e422e2614baa36cb808376bf194b6359&spm_id_from=333.788.player.switch&p=2
